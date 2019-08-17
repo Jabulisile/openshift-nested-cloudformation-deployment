@@ -1,0 +1,162 @@
+[
+    {
+      "ParameterKey": "ClusterName", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "BoundedPermissionsPolicy", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "MyInfrastructureName", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "HostedZoneId", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "HostedZoneName", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "PrivateHostedZoneName", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "PublicSubnets", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "PrivateSubnets", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "VpcCidr", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "VpcId", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "BootstrapRhcosAmi", 
+      "ParameterValue": ""
+    },
+    {
+        "ParameterKey": "BootstrapPublicSubnet", 
+        "ParameterValue": "" 
+      },
+    {
+      "ParameterKey": "MasterRhcosAmi", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "AllowedBootstrapSshCidr", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "BootstrapIgnitionLocation", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "AutoRegisterELB", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "AutoRegisterDNS", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Master0Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Master1Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Master2Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "MasterIgnitionLocation", 
+      "ParameterValue": "https://api-xx.xx.xx.xx:22623/config/master" 
+    },
+    {
+      "ParameterKey": "MasterCertificateAuthorities", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "MasterInstanceType", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "WorkerRhcosAmi", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Worker1Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Worker2Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "Worker3Subnet", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "WorkerIgnitionLocation", 
+      "ParameterValue": "https://api-xx.xx.xx.xx:22623/config/worker" 
+    },
+    {
+      "ParameterKey": "WorkerCertificateAuthorities", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "WorkerInstanceType", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "ExternalApiTargetGroupArn", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "InternalApiTargetGroupArn", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "InternalServiceTargetGroupArn", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "VPCTemplateURL", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "NetworkTemplateURL", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "SGTemplateURL", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "BootstrapTemplateURL", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "ControlTemplateURL", 
+      "ParameterValue": "" 
+    },
+    {
+      "ParameterKey": "WorkerTemplateURL", 
+      "ParameterValue": "" 
+    }
+]
